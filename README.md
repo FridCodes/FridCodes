@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @FridCodes
 - 👀 I’m interested in becoming a GitHub Power User.!
-- 🌱 I’m currently learning Azure DevOps and Azure Cloud Solutions.
+- 🌱 I’m currently learning Azure DevOps and other Azure Cloud Solutions.
 - 💞️ I’m looking to collaborate on open source projects in the future.
 - 📫 How to reach me : https://www.linkedin.com/in/fridaws-salisu-34751389/
 
